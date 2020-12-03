@@ -3,7 +3,8 @@ import sys
 import time
 import random
 import turtle
-import numpy
+import numpy as np
+
 
 class Joel(object):
     def __init__(self):
@@ -1255,3 +1256,4 @@ class Joel(object):
 
 if __name__ == '__main__':
     print(Joel.RandomPassWord())
+    arr = np.array([1, 2, 3])
