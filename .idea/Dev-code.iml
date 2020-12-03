@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="Python 3.9 (JoelJebittoPy)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="workspace" level="project" />
+    <orderEntry type="library" name="ROS" level="project" />
+  </component>
+  <component name="TemplatesService">
+    <option name="TEMPLATE_FOLDERS">
+      <list>
+        <option value="$MODULE_DIR$/web/.metadata/.plugins/org.eclipse.wildwebdeveloper.embedder.node/node-v12.16.1-linux-x64/lib/node_modules/npm/docs/src/templates" />
+      </list>
+    </option>
+  </component>
+</module>
