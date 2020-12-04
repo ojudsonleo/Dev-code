@@ -1255,5 +1255,5 @@ class Joel(object):
 
 
 if __name__ == '__main__':
-    print(Joel.RandomPassWord())
     arr = np.array([1, 2, 3])
+    print(arr.shape)
